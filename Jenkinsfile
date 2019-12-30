@@ -26,6 +26,7 @@ pipeline
 					{
 						steps
 						{
+							bat 'C:\\Users\\gs-2193\\AppData\\Roaming\\npm\\newman run C:\\KrishnaSoni_WorkSpace\\Project_Mule\\postmanCollection\\world-timezone.postman_collection.json --disable-unicode'					
 							bat 'C:\\Users\\gs-2193\\AppData\\Roaming\\npm\\newman run C:\\KrishnaSoni_WorkSpace\\Project_Mule\\postmanCollection\\world-timezone.postman_collection.json --disable-unicode -r htmlextra --reporter-htmlextra-export C:\\KrishnaSoni_WorkSpace\\Project_Mule\\postmanCollection'
 						}
 					}
