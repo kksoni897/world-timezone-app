@@ -25,7 +25,7 @@ pipeline
 					{
 						steps
 						{
-							bat 'mvn package deploy -DmuleDeploy'
+							bat 'mvn package deploy -DmuleDeploy -DskipTests'
 						}
 					}
 					
