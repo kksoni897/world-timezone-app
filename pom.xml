@@ -29,7 +29,7 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.2.2</muleVersion>
-						<applicationName>world-timezone-app</applicationName>
+						<applicationName>world-timezone-app-new</applicationName>
 						<environment>Sandbox</environment>
 						<objectStoreV2>true</objectStoreV2>
 						<workers>1</workers>
