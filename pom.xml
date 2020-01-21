@@ -35,6 +35,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<server>AnypointSandbox</server>
+						
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
